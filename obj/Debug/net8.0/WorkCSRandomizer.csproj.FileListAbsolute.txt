@@ -1,0 +1,14 @@
+E:\Волянск мейнпапк\code\WorkCSRandomizer\bin\Debug\net8.0\WorkCSRandomizer.exe
+E:\Волянск мейнпапк\code\WorkCSRandomizer\bin\Debug\net8.0\WorkCSRandomizer.deps.json
+E:\Волянск мейнпапк\code\WorkCSRandomizer\bin\Debug\net8.0\WorkCSRandomizer.runtimeconfig.json
+E:\Волянск мейнпапк\code\WorkCSRandomizer\bin\Debug\net8.0\WorkCSRandomizer.dll
+E:\Волянск мейнпапк\code\WorkCSRandomizer\bin\Debug\net8.0\WorkCSRandomizer.pdb
+E:\Волянск мейнпапк\code\WorkCSRandomizer\obj\Debug\net8.0\WorkCSRandomizer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Волянск мейнпапк\code\WorkCSRandomizer\obj\Debug\net8.0\WorkCSRandomizer.AssemblyInfoInputs.cache
+E:\Волянск мейнпапк\code\WorkCSRandomizer\obj\Debug\net8.0\WorkCSRandomizer.AssemblyInfo.cs
+E:\Волянск мейнпапк\code\WorkCSRandomizer\obj\Debug\net8.0\WorkCSRandomizer.csproj.CoreCompileInputs.cache
+E:\Волянск мейнпапк\code\WorkCSRandomizer\obj\Debug\net8.0\WorkCSRandomizer.dll
+E:\Волянск мейнпапк\code\WorkCSRandomizer\obj\Debug\net8.0\refint\WorkCSRandomizer.dll
+E:\Волянск мейнпапк\code\WorkCSRandomizer\obj\Debug\net8.0\WorkCSRandomizer.pdb
+E:\Волянск мейнпапк\code\WorkCSRandomizer\obj\Debug\net8.0\WorkCSRandomizer.genruntimeconfig.cache
+E:\Волянск мейнпапк\code\WorkCSRandomizer\obj\Debug\net8.0\ref\WorkCSRandomizer.dll
