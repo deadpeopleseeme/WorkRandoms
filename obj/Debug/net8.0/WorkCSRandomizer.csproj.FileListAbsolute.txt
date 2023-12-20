@@ -12,3 +12,4 @@ E:\Волянск мейнпапк\code\WorkCSRandomizer\obj\Debug\net8.0\refint
 E:\Волянск мейнпапк\code\WorkCSRandomizer\obj\Debug\net8.0\WorkCSRandomizer.pdb
 E:\Волянск мейнпапк\code\WorkCSRandomizer\obj\Debug\net8.0\WorkCSRandomizer.genruntimeconfig.cache
 E:\Волянск мейнпапк\code\WorkCSRandomizer\obj\Debug\net8.0\ref\WorkCSRandomizer.dll
+E:\Волянск мейнпапк\code\WorkCSRandomizer\obj\Debug\net8.0\WorkCSRandomizer.sourcelink.json

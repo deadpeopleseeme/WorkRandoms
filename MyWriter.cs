@@ -20,6 +20,7 @@ namespace WorkCSRandomizer
             var text = "";
             for (int i = 0; i < 10; i++)
             {
+
                 RandomInWriter.RandomDate();
                 RandomInWriter.RandomTimeStamp();
                 var textToAdd = $"{RandomInWriter.Date} {RandomInWriter.TimeStamp}\n";
