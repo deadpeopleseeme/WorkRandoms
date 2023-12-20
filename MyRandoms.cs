@@ -42,6 +42,11 @@ namespace WorkCSRandomizer
                 else
                 {
                     Console.WriteLine("Нужно ввести число от 1 до 12, рандом не сработает, го заново!");
+                    isInputCorrect = false;
+                }
+                if (isInputCorrect)
+                {
+                    BaseRnd = new Random();
                 }
             }
            
